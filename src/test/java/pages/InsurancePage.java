@@ -12,11 +12,12 @@ public class InsurancePage {
 
     public String title = "ОСАГО с кэшбэком до 10%";
     public String promo = "Кэшбэк при оплате полисов Т‑Страхования картой с сервисами Pro и Premium.";
+    public String section = "ОСАГО";
     public String placeholder = "Введите госномер";
     public String calculate = "Рассчитать";
 
     private final SelenideElement pageTitle = $("[data-test='htmlTag title']");
-    private final SelenideElement button = $("[data-qa-type ='uikit/button']");
+    private final SelenideElement sectionText = $("[data-test ='breadcrumb-1']");
     private final SelenideElement promoSubtitle = $("[data-test ='htmlTag subtitle']");
     private final SelenideElement fieldPlaceholder = $("[data-qa-type ='uikit/input.inputBox.label']");
     private final SelenideElement buttonCalculate = $("[data-qa-type ='uikit/button.content']");
@@ -33,9 +34,9 @@ public class InsurancePage {
         return this;
     }
 
-    @Step("Проверить кликабельность кнопки 'Рассчитать'")
-    public InsurancePage checkButtonCalculate() {
-        button.shouldBe(clickable);
+    @Step("Проверить название раздела")
+    public InsurancePage checkSectionText() {
+        sectionText.shouldHave(text(section));
         return this;
     }
 

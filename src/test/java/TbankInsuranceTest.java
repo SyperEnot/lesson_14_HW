@@ -17,10 +17,10 @@ public class TbankInsuranceTest extends TestBase {
     }
 
     @Test
-    @DisplayName("Кнопка 'Рассчитать' кликабельна")
-    public void buttonCalculateTest() {
+    @DisplayName("Название раздела соответствует требованиям")
+    public void sectionTextTest() {
         osagoPage.openPage();
-        osagoPage.checkButtonCalculate();
+        osagoPage.checkSectionText();
     }
 
     @Test
