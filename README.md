@@ -23,6 +23,21 @@
 - Вывести отчет в Allure
 - Получить уведомление о прохождении тестов в Telegram Bot
 
+---
+<a id="tools"></a>
+## <a name="Технологии:">**Технологии:**</a>
+
+<p align="center">  
+<a href="https://www.jetbrains.com/idea/"><img src="image/logo/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>  
+<a href="https://www.java.com/"><img src="image/logo/Java.svg" width="50" height="50"  alt="Java"/></a>  
+<a href="https://github.com/"><img src="image/logo/Github.svg" width="50" height="50"  alt="Github"/></a>  
+<a href="https://junit.org/junit5/"><img src="images/logo/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a>  
+<a href="https://gradle.org/"><img src="image/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>  
+<a href="https://selenide.org/"><img src="image/logo/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>  
+<a href="ht[images](images)tps://github.com/allure-framework/allure2"><img src="image/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a>  
+<a href="https://www.jenkins.io/"><img src="image/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>  
+<a href="https://aerokube.com/selenoid/"><img src="image/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>  
+</p>
 
 ---
 <a id="vacancy"></a>
@@ -60,3 +75,11 @@
 
 
 <img src="src/test/resources/image/Telegram.jpg" width="950">
+
+---
+<a id="video"></a>
+<h1 align="center">Видео о прохождении тестов</h1>
+
+<p align="center">
+<img title="testResultsVideo" src="image/video/testVideo.gif" width="700" height="400"  alt="video">   
+</p>
