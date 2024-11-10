@@ -31,7 +31,7 @@
 <a href="https://www.jetbrains.com/idea/"><img src="image/logo/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>  
 <a href="https://www.java.com/"><img src="image/logo/Java.svg" width="50" height="50"  alt="Java"/></a>  
 <a href="https://github.com/"><img src="image/logo/Github.svg" width="50" height="50"  alt="Github"/></a>  
-<a href="https://junit.org/junit5/"><img src="images/logo/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a>  
+<a href="https://junit.org/junit5/"><img src="image/logo/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a>  
 <a href="https://gradle.org/"><img src="image/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>  
 <a href="https://selenide.org/"><img src="image/logo/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>  
 <a href="ht[images](images)tps://github.com/allure-framework/allure2"><img src="image/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a>  
@@ -52,7 +52,7 @@
 Задача в [Jenkins](https://jenkins.autotests.cloud/job/Jenkins_Homework_14_30_2/)
 
 
-<img src="src/test/resources/image/Jenkins.jpg" width="950">
+<img src="image/Jenkins.jpg" width="950">
 
 В качестве параметров можно выбрать:  
 - Браузер
@@ -65,7 +65,7 @@
 Отчет о прохождениии тестов в [Allure Report](https://jenkins.autotests.cloud/job/Jenkins_Homework_14_30_2/2/allure/)
 
 
-<img src="src/test/resources/image/Allure.jpg" width="950">
+<img src="image/Allure.jpg" width="950">
 
 ---
 <a id="bot"></a>
@@ -74,7 +74,7 @@
 Уведомление о прохождении тестов в Telegram:
 
 
-<img src="src/test/resources/image/Telegram.jpg" width="950">
+<img src="image/Telegram.jpg" width="950">
 
 ---
 <a id="video"></a>
